@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ships.com/index.html</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ships.com/about.html</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ships.com/images/93496811920x0-crop-u581.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ships.com/images/3434728558_9916cf50a9_b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ships.com/images/cruise-ships-1-crop-u664.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ships.com/projects.html</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ships.com/media.html</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ships.com/contact.html</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

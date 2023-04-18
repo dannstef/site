@@ -1,0 +1,63 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ships.com" resolutions="1x" timestamp="1681829548385">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_shablon-a.css" crc="465964220" ref="index:media:contact:about:projects"/>
+    <file name="index.css" crc="488549122" ref="index"/>
+    <file name="media.css" crc="4283592826" ref="media"/>
+    <file name="contact.css" crc="4283592826" ref="contact"/>
+    <file name="about.css" crc="3762056188" ref="about"/>
+    <file name="projects.css" crc="4283592826" ref="projects"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>projects:phone>media:phone>contact:index:about:projects:media:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>about:phone>projects:phone>media:phone>contact:index:about:projects:media:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>projects:phone>media:phone>contact:index:about:projects:media:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>about:phone>projects:phone>media:phone>contact:index:about:projects:media:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>about:phone>projects:phone>media:phone>contact:index:about:projects:media:contact"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>about:phone>projects:phone>media:phone>contact:index:about:projects:media:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:projects:media:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:projects:media:contact"/>
+    <file name="webpro.js" crc="242022427" ref="about"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="about"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="about"/>
+    <file name="touchswipe.js" crc="4066113679" ref="about"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="3779666717" ref="phone>index"/>
+    <file name="icons8-большой-парусник-100 (1).png" crc="3771939629" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="93496811920x0-u474-fr.jpg" crc="71504613" ref="index"/>
+    <file name="93496811920x0-crop-u581.jpg" crc="3898446030" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="about"/>
+    <file name="3434728558_9916cf50a9_b.jpg" crc="535406128" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cruise-ships-1-crop-u664.jpg" crc="78978045" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="about"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="media.css" crc="62426684" ref="phone>media"/>
+      <file name="about.css" crc="62426684" ref="phone>about"/>
+      <file name="contact.css" crc="62426684" ref="phone>contact"/>
+      <file name="projects.css" crc="62426684" ref="phone>projects"/>
+    </folder>
+    <file name="index.html" crc="61494822" seo="true" mt="1681829135285" redirect="false"/>
+    <file name="about.html" crc="4210045707" seo="true" mt="1681829135541" redirect="false"/>
+    <file name="projects.html" crc="10619167" seo="true" mt="1681829135564" redirect="false"/>
+    <file name="media.html" crc="4243225659" seo="true" mt="1681829135583" redirect="false"/>
+    <file name="contact.html" crc="3908087923" seo="true" mt="1681829135605" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3818640704" seo="true" mt="1681829546252" redirect="true"/>
+  <file name="about.html" crc="475915425" seo="true" mt="1681829546054" redirect="true"/>
+  <file name="projects.html" crc="4220217303" seo="true" mt="1681829546054" redirect="true"/>
+  <file name="media.html" crc="207562172" seo="true" mt="1681829546054" redirect="true"/>
+  <file name="contact.html" crc="479288239" seo="true" mt="1681829546054" redirect="true"/>
+</manifest>
